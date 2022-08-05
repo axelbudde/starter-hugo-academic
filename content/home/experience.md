@@ -9,7 +9,7 @@ experience:
 - title: Head, Local Staff Unit, Network University Medicine (NUM)
   company: University Hospital Bonn (UKB)
   company_url: ''
-  company_logo: "org-x"
+  company_logo: "logo"
   location: Bonn, Germany
   date_start: "2020-10-01"
   date_end: ''
