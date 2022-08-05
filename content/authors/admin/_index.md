@@ -1,43 +1,43 @@
 ---
-title: "Axel Budde"
-superuser: yes
-role: null
+organizations: null
 output:
   html_document:
     df_print: paged
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+role: null
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
 education:
   courses:
-  - course: MSc in Psychology
-    institution: University of Amsterdam (UvA), Amsterdam, The Netherlands
-    year: 2004
-  - course: Diplôme de Sciences Criminelles
-    institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
-    year: 1997
-social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: "graduation-cap"
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-email: ''
+    - course: MSc in Psychology
+      institution: University of Amsterdam (UvA), The Netherlands
+      year: 2004
+    - course: Diplôme de Sciences Criminelles
+      institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
+      year: 1997
+superuser: yes
 highlight_name: yes
-organizations: null
+title: Axel Budde
+email: ""
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
