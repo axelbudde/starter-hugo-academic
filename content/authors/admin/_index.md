@@ -4,6 +4,7 @@ output:
   html_document:
     df_print: paged
 role: null
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
