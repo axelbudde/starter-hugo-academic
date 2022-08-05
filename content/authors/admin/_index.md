@@ -30,7 +30,7 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: Diplôme des Sciences Criminelles
+    - course: Diplôme de Sciences Criminelles
       institution: Université de Pau et des Pays de l'Adour, Pau, France
       year: 1997
 
