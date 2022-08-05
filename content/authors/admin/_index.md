@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/axel-b-b6576569/
 education:
   courses:
-    - course: "PhD candidate in Epidemiology (ongoing, expected completion: 2023)"
+    - course: "PhD candidate in Epidemiology (expected completion: 2023)"
       institution: University of Bonn, Germany
     - course: MSc in Psychology
       institution: University of Amsterdam (UvA), The Netherlands
