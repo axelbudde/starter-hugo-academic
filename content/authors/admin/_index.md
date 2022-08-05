@@ -25,7 +25,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/axel-b-b6576569/
 education:
   courses:
     - course: MSc in Psychology
