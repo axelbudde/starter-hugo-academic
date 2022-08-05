@@ -32,6 +32,8 @@ education:
     - course: Diplôme de Sciences Criminelles
       institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
       year: 1997
+    - course: "PhD candidate in Epidemiology (ongoing, expected completion: 2023)"
+      institution: University of Bonn, Germany
 superuser: yes
 highlight_name: yes
 title: Axel Budde
