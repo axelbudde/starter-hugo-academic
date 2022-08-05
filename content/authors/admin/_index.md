@@ -15,15 +15,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:axel.budde@posteo.de
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=J8qyqLQAAAAJ&hl=de&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/axelbudde
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/axel-b-b6576569/
