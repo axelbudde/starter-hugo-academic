@@ -6,7 +6,7 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
-- title: Head, Local Staff Unit, Network University Medicine (NUM)
+- title: Head of Local Staff Unit, Network University Medicine (NUM)
   company: University Hospital Bonn (UKB)
   company_url: 'https://www.ukbonn.de/'
   company_logo: "logo"
