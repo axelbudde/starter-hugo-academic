@@ -26,14 +26,14 @@ social:
     link: https://www.linkedin.com/in/axel-b-b6576569/
 education:
   courses:
+    - course: "PhD candidate in Epidemiology (ongoing, expected completion: 2023)"
+      institution: University of Bonn, Germany
     - course: MSc in Psychology
       institution: University of Amsterdam (UvA), The Netherlands
       year: 2004
     - course: Diplôme de Sciences Criminelles
       institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
       year: 1997
-    - course: "PhD candidate in Epidemiology (ongoing, expected completion: 2023)"
-      institution: University of Bonn, Germany
 superuser: yes
 highlight_name: yes
 title: Axel Budde
