@@ -24,14 +24,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Epidemiology (ongoing)
+      institution: University of Bonn, Bonn, Germany
+      year: expected: 2023
+    - course: MSc in Psychology
+      institution: University of Amsterdam (UvA), Amsterdam, The Netherlands
+      year: 2004
     - course: Diplôme de Sciences Criminelles
-      institution: Université de Pau et des Pays de l'Adour, Pau, France
+      institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
       year: 1997
 
 # Social/Academic Networking
