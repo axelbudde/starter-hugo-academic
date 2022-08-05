@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:axel.budde@posteo.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
