@@ -9,8 +9,8 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Epidemiology
-  - Methodology and Statistics
-  - R
+  - Methodology & Statistics
+  - R Programming
 social:
   - icon: envelope
     icon_pack: fas
