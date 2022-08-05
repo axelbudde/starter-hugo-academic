@@ -28,7 +28,7 @@ education:
   courses:
     - course: "PhD candidate in Epidemiology (expected completion: 2023)"
       institution: University of Bonn, Germany
-    - course: MSc in Psychology
+    - course: MSc in Psychology (With Honours)
       institution: University of Amsterdam (UvA), The Netherlands
       year: 2004
     - course: Diplôme de Sciences Criminelles
