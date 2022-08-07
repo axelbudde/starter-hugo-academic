@@ -34,7 +34,7 @@ item:
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/XB8H2L2VPGCX
     date_end: ''
     date_start: '2017-05-29'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Building R Packages by Johns Hopkins University on Coursera
