@@ -7,7 +7,7 @@ subtitle: null
 date_format: Jan 2006
 experience:
 - title: Head of Staff Unit
-  company: University Hospital Bonn (UKB)
+  company: UKB
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
@@ -16,7 +16,7 @@ experience:
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Research Associate
-  company: University Hospital Bonn (UKB)
+  company: UKB
   company_url: ''
   company_logo: "ukb"
   location: Bonn, Germany
@@ -25,7 +25,7 @@ experience:
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Scientific Officer
-  company: Federal Centre for Health Education (BZgA)
+  company: BZgA
   company_url: ''
   company_logo: "bzga"
   location: Cologne, Germany
@@ -43,7 +43,7 @@ experience:
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Regional Sales Engineer
-  company: Noldus Information Technology bv / Noldus Information Technology GmbH
+  company: Noldus
   company_url: ''
   company_logo: "noldus"
   location: Wageningen, The Netherlands / Berlin, Germany
