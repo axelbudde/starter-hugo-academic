@@ -60,6 +60,15 @@ experience:
   date_end: "2005-07-31"
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
+- title: Research Intern
+  company: United Nations Office on Drugs and Crime (UNODC) 
+  company_url: ''
+  company_logo: "un"
+  location: Bangkok, Thailand
+  date_start: "2004-08-01"
+  date_end: "2004-12-31"
+  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
+    Deploying"
     
 design:
   columns: '2'
