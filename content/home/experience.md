@@ -23,14 +23,14 @@ experience:
   date_start: "2018-06-01"
   date_end: "2020-09-30"
   description: Taught electronic engineering and researched semiconductor physics.
-- title: Scientific Officer, Prevention of Substance Abuse, Addiction Prevention
+- title: Scientific Officer
   company: Federal Centre for Health Education (BZgA)
   company_url: ''
   company_logo: "bzga"
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: Taught electronic engineering and researched semiconductor physics.
+  description: " Unit Prevention of Substance Abuse, Addiction Prevention\n Taught electronic engineering and researched semiconductor physics.""
 - title: Research Associate / Project Co-ordinator
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
   company_url: ''
