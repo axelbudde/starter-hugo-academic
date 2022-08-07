@@ -6,7 +6,7 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
-- title: Head
+- title: Head of Staff Unit
   company: University Hospital Bonn (UKB)
   company_url: ''
   company_logo: "ukb"
@@ -31,7 +31,7 @@ experience:
   date_start: "2013-03-01"
   date_end: "2016-12-31"
   description: Taught electronic engineering and researched semiconductor physics.
-- title: Research Associate 
+- title: Research Associate / Project Co-ordinator
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
   company_url: ''
   company_logo: "katho-nrw"
