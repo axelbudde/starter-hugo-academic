@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Building Data Visualization Tools
+    title: Building Data Visualization Tools by Johns Hopkins University on Coursera
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
