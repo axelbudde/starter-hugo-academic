@@ -56,8 +56,8 @@ experience:
   company_url: ''
   company_logo: "citi"
   location: Barcelona, Spain
-  date_start: "2005-11-01"
-  date_end: "2007-07-31"
+  date_start: "2005-03-01"
+  date_end: "2005-07-31"
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
     
