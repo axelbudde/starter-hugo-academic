@@ -31,8 +31,8 @@ education:
     - course: MSc in Psychology (With Honours)
       institution: University of Amsterdam (UvA), The Netherlands
       year: 2004
-    - course: Diplôme de Sciences Criminelles
-      institution: University of Pau and Pays de l'Adour (UPPA), Pau, France
+    - course: Diploma in Criminal Science
+      institution: University of Pau and Adour Countries (UPPA), Pau, France
       year: 1997
 superuser: yes
 highlight_name: yes
