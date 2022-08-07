@@ -13,8 +13,7 @@ experience:
   location: Bonn, Germany
   date_start: "2020-10-01"
   date_end: ''
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
@@ -22,8 +21,7 @@ experience:
   location: Bonn, Germany
   date_start: "2018-06-01"
   date_end: "2020-09-30"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Scientific Officer
   company: Federal Centre for Health Education (BZgA)
   company_url: ''
@@ -31,8 +29,7 @@ experience:
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Research Associate
   company: Catholic University of Applied Sciences (KatHO NRW)
   company_url: ''
@@ -40,8 +37,7 @@ experience:
   location: Cologne, Germany
   date_start: "2007-08-01"
   date_end: "2011-02-28"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Regional Sales Engineer
   company: Noldus Information Technology bv / GmbH
   company_url: ''
@@ -49,8 +45,7 @@ experience:
   location: Wageningen, The Netherlands / Berlin, Germany
   date_start: "2005-11-01"
   date_end: "2007-07-31"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Customer Service Representative
   company: Citicorp S.A. 
   company_url: ''
@@ -58,8 +53,7 @@ experience:
   location: Barcelona, Spain
   date_start: "2005-03-01"
   date_end: "2005-07-31"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
 - title: Research Intern
   company: United Nations Office on Drugs and Crime (UNODC) 
   company_url: ''
@@ -67,8 +61,7 @@ experience:
   location: Bangkok, Thailand
   date_start: "2004-08-01"
   date_end: "2004-12-31"
-  description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying"
+  description: ""
     
 design:
   columns: '2'
