@@ -18,7 +18,7 @@ experience:
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
-  company_logo: "bzga"
+  company_logo: "ukb"
   location: Bonn, Germany
   date_start: "2018-06-01"
   date_end: "2020-09-30"
@@ -26,10 +26,20 @@ experience:
 - title: Scientific Officer, Prevention of Substance Abuse, Addiction Prevention
   company: Federal Centre for Health Education (BZgA)
   company_url: ''
-  company_logo: "org-x"
+  company_logo: "bzga"
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
+  description: Taught electronic engineering and researched semiconductor physics.
+- title: Research Associate / coordinator EU project ChAPAPs
+	(Children Affected by Parental Alcohol Problems in Europe)
+  company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
+	German Institute on Addiction and Prevention research (DISuP)
+  company_url: ''
+  company_logo: "katho-nrw"
+  location: Cologne, Germany
+  date_start: "2007-08-01"
+  date_end: "2011-02-28"
   description: Taught electronic engineering and researched semiconductor physics.
 design:
   columns: '2'
