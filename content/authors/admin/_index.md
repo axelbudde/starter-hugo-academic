@@ -5,8 +5,7 @@ output:
     df_print: paged
 role: null
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - Epidemiology
   - Methodology & Statistics
@@ -41,4 +40,4 @@ email: ""
 ---
 I am a psychologist whose interests include epidemiology, methodology, statistics, and programming in R.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Lebenslauf Budde Axel.pdf" "newtab" >}}resumé{{< /staticref >}}.
