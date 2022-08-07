@@ -6,7 +6,7 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
-- title: >- "Head \n Local Staff Unit \n Network University Medicine (NUM)"
+- title: "Head \n Local Staff Unit \n Network University Medicine (NUM)"
   company: University Hospital Bonn (UKB)
   company_url: ''
   company_logo: "ukb"
