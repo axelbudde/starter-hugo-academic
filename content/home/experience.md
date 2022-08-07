@@ -40,6 +40,15 @@ experience:
   date_start: "2007-08-01"
   date_end: "2011-02-28"
   description: Taught electronic engineering and researched semiconductor physics.
+- title: Regional Sales Engineer
+  company: Noldus Information Technology bv / Noldus Information Technology GmbH
+  company_url: ''
+  company_logo: "bzga"
+  location: Wageningen, The Netherlands; Berlin, Germany
+  date_start: "2005-11-01"
+  date_end: "2006-06-30"
+  description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
+    Deploying"
 design:
   columns: '2'
 ---
