@@ -30,7 +30,7 @@ experience:
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
+  description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Research Associate / Project Co-ordinator
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
