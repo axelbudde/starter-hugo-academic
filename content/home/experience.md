@@ -32,7 +32,7 @@ experience:
   date_end: "2016-12-31"
   description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
-- title: Research Associate / Project Co-ordinator
+- title: Research Associate
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
   company_url: ''
   company_logo: "katho-nrw"
@@ -44,7 +44,7 @@ experience:
   company: Noldus Information Technology bv / Noldus Information Technology GmbH
   company_url: ''
   company_logo: "noldus"
-  location: Wageningen, The Netherlands; Berlin, Germany
+  location: Wageningen, The Netherlands / Berlin, Germany
   date_start: "2005-11-01"
   date_end: "2006-06-30"
   description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
