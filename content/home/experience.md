@@ -31,8 +31,7 @@ experience:
   date_start: "2013-03-01"
   date_end: "2016-12-31"
   description: Taught electronic engineering and researched semiconductor physics.
-- title: Research Associate / coordinator EU project ChAPAPs
-	(Children Affected by Parental Alcohol Problems in Europe)
+- title: Research Associate 
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
 	German Institute on Addiction and Prevention research (DISuP)
   company_url: ''
