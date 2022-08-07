@@ -30,7 +30,8 @@ experience:
   location: Cologne, Germany
   date_start: "2013-03-01"
   date_end: "2016-12-31"
-  description: " Unit Prevention of Substance Abuse, Addiction Prevention\n Taught electronic engineering and researched semiconductor physics.""
+  description: description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
+    Deploying"
 - title: Research Associate / Project Co-ordinator
   company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
   company_url: ''
