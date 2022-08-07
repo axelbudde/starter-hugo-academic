@@ -35,17 +35,25 @@ item:
     date_end: ''
     date_start: '2017-05-29'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    organization: Coursera
+    organization_url: https://www.coursera.org
     title: Building R Packages by Johns Hopkins University on Coursera
     url: ''
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/QKCGFV4ST65D
+    date_end: ''
+    date_start: '2017-04-18'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Advanced R Programming by Johns Hopkins University on Coursera
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/VRDGATYYM6GG
+    date_end: ''
+    date_start: '2017-03-20'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: The R Programming Environment by Johns Hopkins University on Coursera
     url: ''
 
 design:
