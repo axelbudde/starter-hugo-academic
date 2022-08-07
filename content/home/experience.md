@@ -43,7 +43,7 @@ experience:
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Regional Sales Engineer
-  company: Noldus Information Technology bv / Noldus Information Technology GmbH
+  company: Noldus Information Technology bv / GmbH
   company_url: ''
   company_logo: "noldus"
   location: Wageningen, The Netherlands / Berlin, Germany
