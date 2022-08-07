@@ -18,7 +18,7 @@ experience:
 - title: Research Associate
   company: University Hospital Bonn (UKB)
   company_url: ''
-  company_logo: "org-x"
+  company_logo: "bzga"
   location: Bonn, Germany
   date_start: "2018-06-01"
   date_end: "2020-09-30"
