@@ -34,7 +34,7 @@ experience:
   description: "Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
     Deploying"
 - title: Research Associate
-  company: Catholic University of Applied Sciences North Rhine-Westphalia (KatHO NRW)
+  company: KatHO NRW
   company_url: ''
   company_logo: "katho-nrw"
   location: Cologne, Germany
