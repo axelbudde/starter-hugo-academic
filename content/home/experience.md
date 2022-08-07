@@ -43,7 +43,7 @@ experience:
 - title: Regional Sales Engineer
   company: Noldus Information Technology bv / Noldus Information Technology GmbH
   company_url: ''
-  company_logo: "bzga"
+  company_logo: "noldus"
   location: Wageningen, The Netherlands; Berlin, Germany
   date_start: "2005-11-01"
   date_end: "2006-06-30"
