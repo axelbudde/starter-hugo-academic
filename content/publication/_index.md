@@ -1,5 +1,5 @@
 ---
-title: UKB COVID-19 Bibliothek
+title: Recent Publications
 cms_exclude: true
 
 # View.
