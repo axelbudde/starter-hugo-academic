@@ -23,7 +23,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/axel-b-b6576569/
-  - icon: researchgate
+  - icon: fa-researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Axel-Budde
 education:
