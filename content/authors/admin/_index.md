@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=J8qyqLQAAAAJ&hl=de&oi=sra
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Axel-Budde
   - icon: github
     icon_pack: fab
