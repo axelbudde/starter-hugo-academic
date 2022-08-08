@@ -1,0 +1,14 @@
+---
+title: "Sense of coherence, social support and religiosity as resources for medical personnel during the COVID-19 pandemic: A web-based survey among 4324 health care workers within the German Network University Medicine"
+date: 2021-07-01
+publishDate: 2022-05-31T17:48:50.287637Z
+authors: ["Jonas Schmuck", "Nina Hiebel", "Milena Rabe", "Juliane Schneider", "Yesim Erim", "Eva Morawa", "Lucia Jerg-Bretzke", "Petra Beschoner", "Christian Albus", "Julian Hannemann", "Kerstin Weidner", "Susann Steudte-Schmiedgen", "Lukas Radbruch", "Holger Brunsch", "Franziska Geiser"]
+publication_types: ["2"]
+abstract: "Introduction The COVID-19 pandemic resulted in severe detrimental effects on the mental well-being of health care workers (HCW). Consequently, there has been a need to identify health-promoting resources in order to mitigate the psychological impact of the pandemic on HCW. Objective Our objective was to investigate the association of sense of coherence (SOC), social support and religiosity with self-reported mental symptoms and increase of subjective burden during the COVID-19 pandemic in HCW. Methods Our sample comprised 4324 HCW of four professions (physicians, nurses, medical technical assistants (MTA) and pastoral workers) who completed an online survey from 20 April to 5 July 2020. Health-promoting resources were assessed using the Sense of Coherence Scale Short Form (SOC-3), the ENRICHD Social Support Inventory (ESSI) and one item on religiosity derived from the Scale of Transpersonal Trust (TPV). Anxiety and depression symptoms were measured with the PHQ-2 and GAD-2. The increase of subjective burden due to the pandemic was assessed as the retrospective difference between burden during the pandemic and before the pandemic. Results In multiple regressions, higher SOC was strongly associated with fewer anxiety and depression symptoms. Higher social support was also related to less severe mental symptoms, but with a smaller effect size, while religiosity showed minimal to no correlation with anxiety or depression. In professional group analysis, SOC was negatively associated with mental symptoms in all groups, while social support only correlated significantly with mental health outcomes in physicians and MTA. In the total sample and among subgroups, an increase of subjective burden was meaningfully associated only with a weaker SOC. Conclusion Perceived social support and especially higher SOC appeared to be beneficial for mental health of HCW during the COVID-19 pandemic. However, the different importance of the resources in the respective occupations requires further research to identify possible reasons."
+featured: false
+publication: "*PLOS ONE*"
+tags: ["COVID 19", "Depression", "Mental health and psychiatry", "Nurses", "Pandemics", "Physicians", "Professions", "Religion"]
+url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255211"
+doi: "10.1371/journal.pone.0255211"
+---
+

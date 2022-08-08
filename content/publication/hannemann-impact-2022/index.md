@@ -1,0 +1,14 @@
+---
+title: "The impact of the COVID-19 pandemic on the mental health of medical staff considering the interplay of pandemic burden and psychosocial resources—A rapid systematic review"
+date: 2022-02-01
+publishDate: 2022-05-31T17:48:50.227204Z
+authors: ["Julian Hannemann", "Alan Abdalrahman", "Yesim Erim", "Eva Morawa", "Lucia Jerg-Bretzke", "Petra Beschoner", "Franziska Geiser", "Nina Hiebel", "Kerstin Weidner", "Susann Steudte-Schmiedgen", "Christian Albus"]
+publication_types: ["2"]
+abstract: "Background In times of the global corona pandemic health care workers (HCWs) fight the disease at the frontline of healthcare services and are confronted with an exacerbated load of pandemic burden. Psychosocial resources are thought to buffer adverse effects of pandemic stressors on mental health. This rapid review summarizes evidence on the specific interplay of pandemic burden and psychosocial resources with regard to the mental health of HCWs during the COVID-19 pandemic. The goal was to derive potential starting points for supportive interventions. Methods We conducted a rapid systematic review following the recommendations of the Cochrane Rapid Reviews Methods Group. We searched 7 databases in February 2021 and included peer-reviewed quantitative studies, that reported related data on pandemic stressors, psychosocial resources, and mental health of HCWs. Results 46 reports were finally included in the review and reported data on all three outcomes at hand. Most studies (n = 41) applied a cross-sectional design. Our results suggest that there are several statistically significant pandemic risk factors for mental health problems in HCWs such as high risk and fear of infection, while resilience, active and emotion-focused coping strategies as well as social support can be considered beneficial when protecting different aspects of mental health in HCWs during the COVID-19 pandemic. Evidence for patterns of interaction between outcomes were found in the context of coping style when facing specific pandemic stressors. Conclusions Our results indicate that several psychosocial resources may play an important role in buffering adverse effects of pandemic burden on the mental health of HCWs in the context of the COVID-19 pandemic. Nevertheless, causal interpretations of mentioned associations are inadequate due to the overall low study quality and the dominance of cross-sectional study designs. Prospective longitudinal studies are required to elucidate the missing links."
+featured: false
+publication: "*PLOS ONE*"
+tags: ["Anxiety", "COVID 19", "Depression", "Medical risk factors", "Mental health and psychiatry", "Pandemics", "Psychological and psychosocial issues", "Psychological stress"]
+url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264290"
+doi: "10.1371/journal.pone.0264290"
+---
+

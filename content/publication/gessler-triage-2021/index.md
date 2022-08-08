@@ -1,0 +1,14 @@
+---
+title: "Triage and Allocation of Neurocritical Care Resources During the COVID 19 Pandemic - A National Survey"
+date: 2021-01-01
+publishDate: 2022-05-31T17:48:50.088379Z
+authors: ["Florian Gessler", "Felix Lehmann", "Julian Bösel", "Hannah Fuhrer", "Hermann Neugebauer", "Katja E. Wartenberg", "Stefan Wolf", "Joshua D. Bernstock", "Wolf-Dirk Niesen", "Patrick Schuss"]
+publication_types: ["2"]
+abstract: "Objective: In light of the ongoing COVID-19 pandemic and the associated hospitalization of an overwhelming number of ventilator-dependent patients, medical and/or ethical patient triage paradigms have become essential. While guidelines on the allocation of scarce resources do exist, such work within the subdisciplines of intensive care (e.g. neurocritical care) remains limited. Methods: A 16-item questionnaire was developed that sought to explore/quantify the expert opinions of German neurointensivists with regard to triage decisions. The anonymous survey was conducted via a web-based platform and in total, 96 members of the Initiative of German Neurointensive Trial Engagement (IGNITE)-study group were contacted via e-mail. The IGNITE consortium consists of an interdisciplinary panel of specialists with expertise in neuro-critical care (i.e. anesthetists, neurologists and neurosurgeons). Results: 50 members of the IGNITE consortium responded to the questionnaire; in total the respondents were in charge of more than 500 Neuro ICU beds throughout Germany. Common determinants reported which affected triage decisions included known patient wishes (98%), the state of health before admission (96%), SOFA-score (85%) and patient age (69%). Interestingly, other principles of allocation, such as a treatment of “youngest first” (61%) and members of the healthcare sector (50%) were also noted. While these were the most accepted parameters affecting the triage of patients, a “first-come, first-served” principle appeared to be more accepted than a lottery for the allocation of ICU beds which contradicts much of what has been reported within the literature. The respondents also felt that at least one neurointensivist should serve on any interdisciplinary triage team. Conclusions: The data gathered in the context of this survey reveal the estimation/perception of triage algorithms among neurointensive care specialists facing COVID-19. Further, it is apparent that German neurointensivists strongly feel that they should be involved in any triage decisions at an institutional level given the unique resources needed to treat patients within the Neuro ICU."
+featured: false
+publication: "*Front. Neurol.*"
+tags: ["COVID-19", "neurocritical care", "pandemic", "Patient triage", "SARS-CoV"]
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fneur.2020.609227/full"
+doi: "10.3389/fneur.2020.609227"
+---
+

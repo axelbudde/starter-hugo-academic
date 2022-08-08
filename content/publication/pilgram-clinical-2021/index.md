@@ -1,0 +1,13 @@
+---
+title: "Clinical course and predictive risk factors for fatal outcome of SARS-CoV-2 infection in patients with chronic kidney disease"
+date: 2021-04-01
+publishDate: 2022-05-31T17:48:50.184187Z
+authors: ["Lisa Pilgram", "Lukas Eberwein", "Kai Wille", "Felix C. Koehler", "Melanie Stecher", "Siegbert Rieg", "Jan T. Kielstein", "Carolin E. M. Jakob", "Maria Rüthrich", "Volker Burst", "Fabian Prasser", "Stefan Borgmann", "Roman-Ulrich Müller", "Julia Lanznaster", "Nora Isberner", "Lukas Tometten", "Sebastian Dolff"]
+publication_types: ["2"]
+abstract: "Purpose The ongoing pandemic caused by the novel severe acute respiratory coronavirus 2 (SARS-CoV-2) has stressed health systems worldwide. Patients with chronic kidney disease (CKD) seem to be more prone to a severe course of coronavirus disease (COVID-19) due to comorbidities and an altered immune system. The study’s aim was to identify factors predicting mortality among SARS-CoV-2-infected patients with CKD.  Methods We analyzed 2817 SARS-CoV-2-infected patients enrolled in the Lean European Open Survey on SARS-CoV-2-infected patients and identified 426 patients with pre-existing CKD. Group comparisons were performed via Chi-squared test. Using univariate and multivariable logistic regression, predictive factors for mortality were identified.  Results Comparative analyses to patients without CKD revealed a higher mortality (140/426, 32.9% versus 354/2391, 14.8%). Higher age could be confirmed as a demographic predictor for mortality in CKD patients (textgreater 85 years compared to 15–65 years, adjusted odds ratio (aOR) 6.49, 95% CI 1.27–33.20, p = 0.025). We further identified markedly elevated lactate dehydrogenase (textgreater 2 × upper limit of normal, aOR 23.21, 95% CI 3.66–147.11, p textless 0.001), thrombocytopenia (textless 120,000/µl, aOR 11.66, 95% CI 2.49–54.70, p = 0.002), anemia (Hb textless 10 g/dl, aOR 3.21, 95% CI 1.17–8.82, p = 0.024), and C-reactive protein (≥ 30 mg/l, aOR 3.44, 95% CI 1.13–10.45, p = 0.029) as predictors, while renal replacement therapy was not related to mortality (aOR 1.15, 95% CI 0.68–1.93, p = 0.611).  Conclusion The identified predictors include routinely measured and universally available parameters. Their assessment might facilitate risk stratification in this highly vulnerable cohort as early as at initial medical evaluation for SARS-CoV-2.  Supplementary Information The online version contains supplementary material available at 10.1007/s15010-021-01597-7."
+featured: false
+publication: "*Infection*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8043429/"
+doi: "10.1007/s15010-021-01597-7"
+---
+

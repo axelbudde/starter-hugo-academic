@@ -1,0 +1,14 @@
+---
+title: "The mediating role of COVID-19-related burden in the association between adverse childhood experiences and emotional exhaustion: results of the egePan – VOICE study"
+date: 2021-01-01
+publishDate: 2022-05-31T17:48:50.275615Z
+authors: ["Vera Clemens", "Petra Beschoner", "Marc N. Jarczok", "Katja Weimer", "Maximilian Kempf", "Eva Morawa", "Franziska Geiser", "Christian Albus", "Susan Steudte-Schmiedgen", "Harald Gündel", "J.M. Fegert", "Lucia Jerg-Bretzke"]
+publication_types: ["2"]
+abstract: "Background Adverse childhood experiences (ACEs) increase the risk for mental health problems. However, there is a lack of data targeting the role of ACEs for one of the most prevalent mental health problems in health-care professionals: burnout.Objective We aimed to assess the relationship between ACEs and the core burnout dimension ‘emotional exhaustion’ (EE). As health-care professionals have been facing particular challenges during the COVID-19 pandemic, we furthermore aimed to assess the role of COVID-19 associated burden in the interplay between ACEs and EE.Methods During the first lockdown in Germany, a total of 2500 medical healthcare professionals were questioned in a cross-sectional online survey. Questions targeted, among others, sociodemographics, ACEs, COVID-19-associated problems (e.g. increase of workload, worries about relatives and patients) and emotional exhaustion, measured by the respective dimension of the Maslach Burnout Inventory (MBI).Results In German health-care professionals, ACEs were associated with a higher EE score. The number of experienced ACEs was associated with the majority of assessed COVID-19-associated problems. An increasing number of ACEs predicted higher EE scores, controlling for gender. The association between ACEs and EE was mediated significantly by COVID-19-associated problems. These included maladaptive coping strategies such as increased smoking, drinking and use of antidepressants/tranquilizers, feeling less protected by measures of the employee or the state, a greater feeling of being burdened by COVID-19-associated problems and greater exhaustion and sleep problems.Conclusion Our findings suggest ACEs as significant risk factor for EE in German health-care professionals. The current pandemic means a significant burden that further pronounces this risk."
+featured: false
+publication: "*European Journal of Psychotraumatology*"
+tags: ["Adverse childhood experiences (ACEs)", "agotamiento", "agotamiento emocional", "burnout", "COVID-19", "emotional exhaustion", "Experiencias adversas en la niñez (ACEs)", "healthcare professionals", "pandemia", "pandemic", "profesionales de la salud", "不良童年经历 (ACE)", "倦怠", "医疗保健专业人员", "情绪疲惫", "流行病"]
+url_pdf: "https://doi.org/10.1080/20008198.2021.1976441"
+doi: "10.1080/20008198.2021.1976441"
+---
+

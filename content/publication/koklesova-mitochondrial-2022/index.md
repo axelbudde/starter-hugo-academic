@@ -1,0 +1,14 @@
+---
+title: "Mitochondrial health quality control: measurements and interpretation in the framework of predictive, preventive, and personalized medicine"
+date: 2022-05-01
+publishDate: 2022-05-31T17:48:50.306566Z
+authors: ["Lenka Koklesova", "Alena Mazurakova", "Marek Samec", "Erik Kudela", "Kamil Biringer", "Peter Kubatka", "Olga Golubnitschaja"]
+publication_types: ["2"]
+abstract: "Mitochondria are the “gatekeeper” in a wide range of cellular functions, signaling events, cell homeostasis, proliferation, and apoptosis. Consequently, mitochondrial injury is linked to systemic effects compromising multi-organ functionality. Although mitochondrial stress is common for many pathomechanisms, individual outcomes differ significantly comprising a spectrum of associated pathologies and their severity grade. Consequently, a highly ambitious task in the paradigm shift from reactive to predictive, preventive, and personalized medicine (PPPM/3PM) is to distinguish between individual disease predisposition and progression under circumstances, resulting in compromised mitochondrial health followed by mitigating measures tailored to the individualized patient profile. For the successful implementation of PPPM concepts, robust parameters are essential to quantify mitochondrial health sustainability. The current article analyses added value of Mitochondrial Health Index (MHI) and Bioenergetic Health Index (BHI) as potential systems to quantify mitochondrial health relevant for the disease development and its severity grade. Based on the pathomechanisms related to the compromised mitochondrial health and in the context of primary, secondary, and tertiary care, a broad spectrum of conditions can significantly benefit from robust quantification systems using MHI/BHI as a prototype to be further improved. Following health conditions can benefit from that: planned pregnancies (improved outcomes for mother and offspring health), suboptimal health conditions with reversible health damage, suboptimal life-style patterns and metabolic syndrome(s) predisposition, multi-factorial stress conditions, genotoxic environment, ischemic stroke of unclear aetiology, phenotypic predisposition to aggressive cancer subtypes, pathologies associated with premature aging and neuro/degeneration, acute infectious diseases such as COVID-19 pandemics, among others."
+featured: false
+publication: "*EPMA Journal*"
+tags: ["COVID-19", "Disease severity", "Health policy", "Disease development", "Ischemic stroke", "Systemic effects", "Bioenergetic health index", "Cell apoptosis", "Health", "Ischemia–reperfusion", "Mitochondria", "Mitochondrial fusion and fission", "Mitochondrial health index", "Mitochondrial stress", "Predictive preventive personalized medicine (PPPM/3PM)", "Primary secondary tertiary care"]
+url_pdf: "https://doi.org/10.1007/s13167-022-00281-6"
+doi: "10.1007/s13167-022-00281-6"
+---
+
