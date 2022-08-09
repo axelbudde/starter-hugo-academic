@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The effects of parental problem drinking on children: a review of current
+title: 'The effects of parental problem drinking on children : a review of current
   research findings and their relevance for practice'
 subtitle: ''
 summary: ''
@@ -9,7 +9,7 @@ authors:
 - Axel Budde
 - Michael Klein
 - Stefan Belles
-- Diana Moesgen
+- Diana Moe Sgen
 tags: []
 categories: []
 date: '2010-01-01'
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-09T10:21:31.575478Z'
+publishDate: '2022-08-09T11:17:38.749522Z'
 publication_types:
 - '2'
 abstract: 'This paper is based on a presentation given at the conference “A child
