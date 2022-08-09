@@ -9,7 +9,7 @@ authors:
 - Axel Budde
 - Michael Klein
 - Stefan Belles
-- Diana Moesgen
+- Diana Moe Sgen
 tags: []
 categories: []
 date: '2010-01-01'
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-09T09:21:23.249234Z'
+publishDate: '2022-08-09T10:21:31.575478Z'
 publication_types:
 - '2'
 abstract: 'This paper is based on a presentation given at the conference “A child
