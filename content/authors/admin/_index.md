@@ -17,12 +17,16 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=J8qyqLQAAAAJ&hl=de&oi=sra
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Axel-Budde
   - icon: github
     icon_pack: fab
     link: https://github.com/axelbudde
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/axel-b-b6576569/
+  
 education:
   courses:
     - course: "PhD Candidate in Epidemiology (expected completion: 2023)"
