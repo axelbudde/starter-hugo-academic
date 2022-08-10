@@ -9,7 +9,7 @@ authors:
 - Axel Budde
 - Michael Klein
 - Stefan Belles
-- Diana Moe Sgen
+- Diana Moesgen
 tags: []
 categories: []
 date: '2010-01-01'
